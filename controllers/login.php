@@ -7,7 +7,7 @@
 		$password = $_POST['clave'];
 
 		//$usuario = $var->Login_usuario($usuario,$password);
-		if ($usuario=='administrador' && $password=='123') {
+		if ($usuario=='daofer' && $password=='123') {
 			$_SESSION['idusuario'] = '1';
 			$_SESSION['usuario'] = 'ADMINISTRADOR';	
 			$_SESSION['perfil'] = '1';
