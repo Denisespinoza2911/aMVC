@@ -5,6 +5,10 @@
     	<body>
         	<?php
         		require_once('controllers/index.php');
-                        echo'esto edito Denis Espinoza';        	?>
+                        echo'esto edito Denis Espinoza GArcia';  
+                        echo'oblitas';
+                        echo 'hola guapo';
+                        
+                        ?>
     	</body>
 </html>
