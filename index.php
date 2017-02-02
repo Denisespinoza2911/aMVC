@@ -5,6 +5,6 @@
     	<body>
         	<?php
         		require_once('controllers/index.php');
-                        echo'esto edito Denis';        	?>
+                        echo'esto edito Denis Espinoza';        	?>
     	</body>
 </html>
