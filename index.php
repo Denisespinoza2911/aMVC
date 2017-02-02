@@ -7,7 +7,7 @@
         		require_once('controllers/index.php');
                         echo'esto edito Denis Espinoza GArcia';  
                         echo'oblitas';
-                        echo 'denis es gay'
+                        
                         ?>
     	</body>
 </html>
