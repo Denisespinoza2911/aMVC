@@ -1,0 +1,8 @@
+ body{font-family: Georgia, serif;
+      color:purple;
+      background-color:#1E90FF} 
+ 
+div.login{
+          margin: 200px auto; 
+          width: 200px;
+          height:80px;}
